@@ -37,13 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabsgj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsgj&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/gabrieljamesamara  
