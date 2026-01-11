@@ -1,92 +1,42 @@
-<!--
-# 👋 Hi, I'm Gabriel James
+<!--header-->
+<div align="center">
+  
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗          ██╗ █████╗ ███╗   ███╗███████╗███████╗   ║
+║  ██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║          ██║██╔══██╗████╗ ████║██╔════╝██╔════╝   ║
+║  ██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║          ██║███████║██╔████╔██║█████╗  ███████╗   ║
+║  ██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║     ██   ██║██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║   ║
+║  ╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗╚█████╔╝██║  ██║██║ ╚═╝ ██║███████╗███████║   ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝   ║
+║                                                                              ║
+║                    CS Undergraduate & ML Enthusiast                          ║
+║                    📍 Chalakudy, Kerala, India                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-🎓 First-Year BTech CSE Student @ Government Engineering College Thrissur (GECT)  
-📍 Based in Chalakudy, Kerala  
-🎯 Focused on AI, Machine Learning, and Financial Technology
-
----
-
-## 🌱 Currently Learning & Building
-
-- 🤖 Machine Learning (Andrew Ng – Coursera)
-- 📊 SQL for Data Science & Financial Markets (Yale)
-- 🧠 Python for Data Science (IBM)
-- ☁️ AWS Cloud Practitioner (AWS Educate)
-- 📈 Building a Stock Price Predictor with LSTM
-
----
-
-## 🧰 Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📌 Current Projects
-
-- 📈 Stock Price Prediction using LSTM
-- 🧠 Credit Card Fraud Detection with Machine Learning
-- 🧪 Working on Deep Learning Neural Networks with TensorFlow
-
----
-
-## 🌐 Let's Connect
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/gabrieljamesamara  
-- 📫 Email: gabriel22dec@gmail.com  
-- 🧠 Portfolio: Coming soon
-
-<!---
-gabsgj/gabsgj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Hi there, I'm Gabriel James! 👋
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gabrieljames.me-00D9FF?style=for-the-badge&labelColor=0D1117)](https://gabrieljames.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieljamesamara)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel22dec@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabsgj)
 
-## 🚀 About Me
+</div>
+<!--/header-->
 
-I'm a **sophomore BTech Computer Science student** at **Government Engineering College Thrissur**, passionate about **AI/ML, FinTech, and building solutions that make a real impact**. I actively work on cutting-edge projects in **computer vision, NLP, and financial technology**.
+---
 
-<!--I'm a **sophomore BTech Computer Science student** at Government Engineering College Thrissur with a passion for **AI/ML**, **FinTech**, and building solutions that make a real impact. Currently maintaining a perfect **CGPA of 10.0/10.0** while actively working on cutting-edge projects in computer vision, NLP, and financial technology.-->
+## `> whoami`
 
 ```python
 class Gabriel:
     def __init__(self):
         self.role = "CS Undergraduate & ML Enthusiast"
         self.location = "Chalakudy, Kerala, India"
-        self.current_focus = ["Machine Learning Specialization", "Deep Learning", "FinTech"]
-        self.learning = ["Advanced Learning Algorithms", "Financial Markets", "System Design"]
+        self.education = "BTech CSE @ Government Engineering College Thrissur"
+        self.current_focus = ["Deep Learning Specialization", "AI Engineering", "FinTech"]
+        self.learning = ["IBM AI Engineering", "Deep Learning", "System Design"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
@@ -94,55 +44,137 @@ class Gabriel:
 me = Gabriel()
 me.say_hi()
 ```
-<!--
-## 🏆 Recent Achievements
 
-- 🥇 **Top 15** at **Hackhazards'25** (Fluvio Track) - Among 17,000+ participants from 25+ countries
-- 🎯 **Perfect CGPA 10.0/10.0** - First Semester, BTech CSE
-- 📚 **15+ Industry Certifications** - Stanford, IBM, AWS, Meta, Vanderbilt, UC Davis
-- 💻 **4+ Production-Ready Projects** - Deployed AI solutions for real-world problems
-- -->
-## 🏆 Recent Achievements
+**Sophomore BTech Computer Science student** at **Government Engineering College Thrissur**, passionate about **AI/ML, FinTech, and building solutions that make a real impact**. I actively work on cutting-edge projects in **computer vision, NLP, and financial technology**.
 
-- 🥇 **Top 15** at **Hackhazards '25 – Fluvio Track** (17,000+ participants, 25+ countries) – Developed the **Stampede Predictor**, a real-time AI system for public safety using YOLOv8, OpenCV, and Fluvio streaming.
-- 📚 **15+ Industry Certifications** – Stanford, IBM, AWS, Meta, Vanderbilt, UC Davis; covering **Machine Learning, AI, Python, SQL, Git, Cloud Computing, and Financial Tech**.
-- 💻 **4+ Production-Ready Projects** – Deployed real-world AI/FinTech solutions: **Stampede Predictor, AURA (Cross-Border Payments), ATHENIS (Legal Document Simplifier), and more**.
-- 🌍 **Global Hackathon Exposure** – Participated in community-run competitions with international reach, gaining practical experience in full-stack AI applications.
-- 🔧 **Full Technical Stack Expertise** – Python, Java, C, JavaScript, Flask, SQL, Docker, YOLOv8, cloud deployment, and real-time data pipelines.
+---
 
-## 🔭 Featured Projects
+## `> cat achievements.log`
+
+```diff
++ 🥇 Top 15 at Hackhazards '25 – Fluvio Track (17,000+ participants, 25+ countries)
++    └── Developed Stampede Predictor: real-time AI for public safety (YOLOv8 + OpenCV + Fluvio)
++ 📚 15+ Industry Certifications
++    └── Stanford, IBM, AWS, Meta, Vanderbilt, UC Davis
++    └── Machine Learning, AI, Python, SQL, Git, Cloud Computing, Financial Tech
++ 💻 5+ Production-Ready Projects
++    └── Stampede Predictor, AURA, XENIA, ATHENIS, Time-Trek, ValueFind
++ 🌍 Global Hackathon Exposure
++    └── Community-run competitions with international reach
++ 🔧 Full Technical Stack Expertise
++    └── Python, Java, C, JavaScript, Flask, SQL, Docker, YOLOv8, cloud deployment
+```
+
+---
+
+## `> ls -la ~/projects/`
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🚨 [Stampede Predictor](https://github.com/gabsgj/Stampede-Predictor)
-Real-time AI system for crowd safety using computer vision
-- **Tech Stack:** YOLOv8, OpenCV, Python, Streamlit, Fluvio
-- **Impact:** 99.32% detection accuracy, processes 30 FPS video streams
-- **Achievement:** Top 15 at Hackhazards'25 International Hackathon
-- [📹 Demo Video](https://youtu.be/KKmF_QUh2yI)
+**Real-time AI system for crowd safety using computer vision**
 
-### 💰 [AURA - Cross-Border Payments Platform](https://github.com/gabsgj/AURA)
-AI-powered FinTech solution for international payments
-- **Tech Stack:** React, TypeScript, Flask, PostgreSQL, Voice AI
-- **Features:** Real-time currency conversion, voice commands, fraud detection ready
+```yaml
+Stack: [YOLOv8, OpenCV, Python, Streamlit, Fluvio]
+Impact: 99.32% detection accuracy @ 30 FPS
+Status: ████████████ 100% Complete
+```
+🏆 **Top 15 at Hackhazards'25 International Hackathon**
 
-### 🤖 [XENIA - Intelligent Voice Assistant](https://github.com/gabsgj/Xenia)
-Context-aware conversational AI with NLP capabilities
-- **Tech Stack:** Python, NLP, Speech Recognition, TensorFlow
-- **Features:** Multi-language support, plugin architecture, intent recognition
+[📹 Demo Video](https://youtu.be/KKmF_QUh2yI) | [🔗 GitHub](https://github.com/gabsgj/Stampede-Predictor)
 
-### ⚖️ [ATHENIS - Legal Document Simplifier](https://github.com/gabsgj/athenis)
-Democratizing legal information through AI
-- **Tech Stack:** Python, Flask, Go, Docker, NLP, Akash Network
-- **Features:** Multi-format support, risk extraction, multilingual processing
+</td>
+<td width="50%">
 
-## 💻 Tech Stack
+### 🤖 [XENIA](https://github.com/gabsgj/XENIA)
+**AI Study Planner with NLP capabilities**
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+```yaml
+Stack: [TypeScript, Python, NLP, Speech Recognition]
+Features: Multi-language, plugin architecture, intent recognition
+Status: ████████████ 100% Complete
+```
+
+[🔗 GitHub](https://github.com/gabsgj/XENIA)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [AURA](https://github.com/gabsgj/AURA)
+**AI-powered FinTech solution for international payments**
+
+```yaml
+Stack: [React, TypeScript, Flask, PostgreSQL, Voice AI]
+Features: Currency conversion, voice commands, fraud detection
+Status: ████████████ 100% Complete
+```
+
+[🔗 GitHub](https://github.com/gabsgj/AURA)
+
+</td>
+<td width="50%">
+
+### ⚖️ [ATHENIS](https://github.com/gabsgj/athenis)
+**Democratizing legal information through AI**
+
+```yaml
+Stack: [Python, Flask, Go, Docker, NLP, Akash Network]
+Features: Multi-format support, risk extraction, multilingual
+Status: ████████████ 100% Complete
+```
+
+[🔗 GitHub](https://github.com/gabsgj/athenis)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 [ValueFind](https://github.com/gabsgj/ValueFind)
+**Smart value finder application**
+
+```yaml
+Stack: [TypeScript]
+Features: Intelligent search, comparison engine
+Status: ████████████ 100% Complete
+```
+
+[🔗 GitHub](https://github.com/gabsgj/ValueFind)
+
+</td>
+<td width="50%">
+
+### 🦕 [Time-Trek](https://github.com/gabsgj/Time-Trek)
+**Immersive app to explore prehistoric creatures through time**
+
+```yaml
+Stack: [TypeScript, AI-generated visuals]
+Features: Interactive learning, stunning visuals
+Status: ████████████ 100% Complete
+```
+
+[🔗 GitHub](https://github.com/gabsgj/Time-Trek)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat /proc/skills`
+
+### Languages & Frameworks
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  Python ████████████████████ 95%   JavaScript ██████████████░░ 75%  │
+│  Java   ██████████████░░░░░░ 70%   TypeScript ██████████████░░ 75%  │
+│  C      ██████████████░░░░░░ 70%   SQL        ████████████████ 85%  │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 ### ML/AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -151,6 +183,7 @@ Democratizing legal information through AI
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -163,55 +196,95 @@ Democratizing legal information through AI
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## 📚 Current Learning Journey
+---
 
-- 🎓 **Machine Learning Specialization** - Stanford & DeepLearning.AI (3/3 courses)
-  - ✅ Supervised Machine Learning: Regression and Classification
-  - 🔄 Advanced Learning Algorithms (In Progress)
-  - 📅 Unsupervised Learning, Recommenders, Reinforcement Learning
-  
-- 📊 **Financial Markets** - Yale University (Starting Soon)
-- 🧠 **Deep Learning Specialization** - Planning Next
+## `> cat learning_journey.md`
 
-## 📈 GitHub Stats
+```
+📚 TRAINING MODULES
+├── ✅ Machine Learning Specialization - Stanford & DeepLearning.AI (COMPLETED)
+│   ├── ✅ Supervised Machine Learning: Regression and Classification
+│   ├── ✅ Advanced Learning Algorithms
+│   └── ✅ Unsupervised Learning, Recommenders, Reinforcement Learning
+├── � Deep Learning Specialization - DeepLearning.AI & Andrew Ng (In Progress)
+├── 🔄 IBM AI Engineering Professional Certificate (In Progress)
+└── 📊 Financial Markets - Yale University (Planning Next)
+```
+
+---
+
+## `> cat 2026_goals.txt`
+
+```bash
+#!/bin/bash
+# 2026 Mission Protocol
+
+GOALS=(
+  "[ ] Complete Deep Learning Specialization (DeepLearning.AI)"
+  "[ ] Complete IBM AI Engineering Professional Certificate"
+  "[ ] Contribute to major open-source ML projects"
+  "[ ] Secure a summer internship in AI/ML or FinTech"
+  "[ ] Build and deploy 5+ production-ready AI applications"
+  "[ ] Start research in Computer Vision or NLP"
+)
+
+for goal in "${GOALS[@]}"; do
+  echo "$goal"
+done
+```
+
+---
+
+## `> git log --oneline -3`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabsgj&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabsgj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gabriel's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabsgj&theme=tokyonight" alt="Gabriel's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabsgj&theme=tokyonight&hide_border=true&background=0D1117" alt="Gabriel's GitHub Streak" />
 </p>
 
-## 🎯 2025 Goals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsgj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
-- [ ] Complete Machine Learning Specialization (Stanford)
-- [ ] Contribute to major open-source ML projects
-- [ ] Secure a summer internship in AI/ML or FinTech
-- [ ] Build and deploy 5+ production-ready AI applications
-- [ ] Achieve top rankings in competitive programming
-- [ ] Start research in Computer Vision or NLP
+---
 
-## 🤝 Let's Connect!
+## `> netstat -tulpn | grep LISTEN`
 
-I'm always excited to collaborate on interesting projects, especially in:
-- 🤖 **Machine Learning & AI**
-- 💳 **FinTech & Financial Analysis**
-- 👁️ **Computer Vision**
-- 💬 **Natural Language Processing**
-- 🌐 **Full-Stack Development**
+```
+🤝 COLLABORATION PORTS OPEN
+├── 🤖 Machine Learning & AI .............. :8080 [LISTENING]
+├── 💳 FinTech & Financial Analysis ....... :8081 [LISTENING]
+├── 👁️ Computer Vision .................... :8082 [LISTENING]
+├── 💬 Natural Language Processing ........ :8083 [LISTENING]
+└── 🌐 Full-Stack Development ............. :8084 [LISTENING]
+```
 
-Feel free to reach out if you want to:
-- Collaborate on projects
-- Discuss AI/ML ideas
-- Need help with Python or web development
-- Just want to connect!
+**Feel free to reach out if you want to:**
+- 🤝 Collaborate on projects
+- 💡 Discuss AI/ML ideas
+- 🐍 Need help with Python or web development
+- 👋 Just want to connect!
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabsgj&color=blueviolet&style=flat-square" alt="Profile views" />
-  <br/>
-  <i>"Building the future, one commit at a time."</i>
+  <img src="https://komarev.com/ghpvc/?username=gabsgj&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <br/><br/>
+  <code>$ echo "Building the future, one commit at a time." 🚀</code>
 </p>
+
+<!--
+╔═══════════════════════════════════════════════════════════════════╗
+║  🔗 Quick Links                                                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  🌐 Portfolio: https://gabrieljames.me/                           ║
+║  💼 LinkedIn:  https://linkedin.com/in/gabrieljamesamara          ║
+║  📧 Email:     gabriel22dec@gmail.com                             ║
+║  🐙 GitHub:    https://github.com/gabsgj                          ║
+╚═══════════════════════════════════════════════════════════════════╝
+-->
