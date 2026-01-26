@@ -240,7 +240,7 @@ done
 ## `> git log --oneline -3`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabsgj&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabsgj&include_all_commits=true&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gabriel's GitHub Stats" />
 </p>
 
 <!-- <p align="center">
