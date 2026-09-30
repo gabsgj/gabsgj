@@ -1,0 +1,21 @@
+name: git-bonsai
+on:
+  schedule:
+    - cron: "0 0 * * *" # regrows daily
+  workflow_dispatch: {} # lets you run it manually
+
+jobs:
+  bonsai:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: egorthinks/git-bonsai@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          branch: output
+          create_branch: true
+          commit_message: "chore: regrow bonsai"
