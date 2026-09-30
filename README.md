@@ -303,8 +303,6 @@ Full list on [LinkedIn](https://www.linkedin.com/in/gabrieljamesamara) — GitHu
 </table>
 
 <img src="https://streak-stats.demolab.com?user=gabsgj&theme=tokyonight&hide_border=true&border_radius=12&background=1a1b27&fire=bb9af7&ring=7aa2f7&currStreakLabel=7dcfff" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabsgj&theme=tokyo-night&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&hide_border=true" width="100%" />
 </div>
 
 ---
