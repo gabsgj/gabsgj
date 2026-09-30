@@ -312,27 +312,16 @@ Full list on [LinkedIn](https://www.linkedin.com/in/gabrieljamesamara) — GitHu
 ## 🌳 𝙶𝚛𝚘𝚠𝚝𝚑
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/gabsgj/gabsgj/output/bonsai-growth.gif" width="380" alt="git-bonsai" />
+<img src="https://raw.githubusercontent.com/gabsgj/gabsgj/main/output/bonsai-growth.gif" width="380" alt="git-bonsai" />
 <br/>
 <sub>bonsai grown from commit history — quiet compounding, loud performance</sub>
 </div>
 
 <!--
-BONSAI SETUP (one-time, keeps the tree above live):
-1. Create repo file .github/workflows/bonsai.yml:
-   name: git-bonsai
-   on: { schedule: [{ cron: "0 0 * * *" }], workflow_dispatch: {} }
-   jobs:
-     bonsai:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: actions/checkout@v4
-         - uses: egorthinks/git-bonsai@v1
-           with: { github_token: ${{ secrets.GITHUB_TOKEN }} }
-         - uses: stefanzweifel/git-auto-commit-action@v5
-           with: { branch: output, create_branch: true }
-2. Run it once manually under Actions, then the gif above renders.
-Fallback while unset: the section gracefully shows alt text.
+BONSAI: generated daily by .github/workflows/bonsai.yml into output/ on main.
+The egorthinks/git-bonsai action commits the images itself (bonsai.svg/.png/.gif
++ bonsai-growth.gif timelapse) — no extra auto-commit step needed. Do NOT point
+the img above at an "output" branch; it does not exist by design.
 SNAKE ALTERNATIVE (if you prefer): Platane/snk/svg-only@v3 -> output branch.
 STATS RELIABILITY (2026): using github-stats-extended fork + demolab streak
 instead of paused official vercel/heroku endpoints. Self-host if critical.
