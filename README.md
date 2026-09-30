@@ -312,7 +312,7 @@ Full list on [LinkedIn](https://www.linkedin.com/in/gabrieljamesamara) — GitHu
 ## 🌳 𝙶𝚛𝚘𝚠𝚝𝚑
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/gabsgj/gabsgj/output/bonsai.gif" width="380" alt="git-bonsai" />
+<img src="https://raw.githubusercontent.com/gabsgj/gabsgj/output/bonsai-growth.gif" width="380" alt="git-bonsai" />
 <br/>
 <sub>bonsai grown from commit history — quiet compounding, loud performance</sub>
 </div>
