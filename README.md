@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gabrieljames.me-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7)](https://gabrieljames.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gabrieljames.dev-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7)](https://gabrieljames.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieljamesamara)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel22dec@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-gabsgj-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/gabsgj)
@@ -49,7 +49,7 @@ HPC + systems + C++............ ███░░░░░░░░░░░░░
 ```
 <br/>
 
-📍 **India** · 🌐 **[gabrieljames.me](https://gabrieljames.me)**<br/>
+📍 **India** · 🌐 **[gabrieljames.dev](https://gabrieljames.dev)**<br/>
 🏆 **Top 6 @ HackOdisha 5.0** · **Top 15 @ HackHazards '25**<br/>
 📝 **NPTEL Top 2% — High-Performance Scientific Computing**
 
@@ -80,7 +80,7 @@ infra: [SSE streaming, drift detection, Docker, Redis]
 - **Architecture:** Ingestion → STFT/CWT/HHT scalograms → custom 2D CNNs → FastAPI + SSE → React 19 / D3 telemetry. Single `stocks.json` drives frontend + backend. 3 modes: per-stock, transfer, embedding-aware.
 - **Result:** Production pipeline with drift-triggered retraining, versioned rollback, auto-generated Colab GPU notebooks.
 
-🔴 **[Live Demo](https://chronospectra.gabrieljames.me/)** · 📂 **[Code](https://github.com/gabsgj/ChronoSpectra)**
+🔴 **[Live Demo](https://chronospectra.gabrieljames.dev/)** · 📂 **[Code](https://github.com/gabsgj/ChronoSpectra)**
 
 </td>
 <td width="50%" valign="top">
@@ -98,7 +98,7 @@ ui: [embedded visualizer, 4 views, Canvas]
 - **Architecture:** Lifelong Planning D* Lite + orthogonal k-d tree hazard index + exponential potential fields + native 64-D NLP/LTL parser + multithreaded single-binary HTTP visualizer.
 - **Result:** Repo-benchmarked up to **219× faster** than static A\* (0.33–8.4μs), NLP parse in ~9.2μs, 100% local.
 
-🔴 **[Live Demo](https://ssp.gabrieljames.me)** · 📂 **[Code](https://github.com/gabsgj/Safe-Semantic-Planner)**
+🔴 **[Live Demo](https://ssp.gabrieljames.dev)** · 📂 **[Code](https://github.com/gabsgj/Safe-Semantic-Planner)**
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ built: [IBM Bob 2.0, lablab.ai Sep 2026]
 - **Architecture:** Free-text transaction → cache check → live search → source reading → ordered, costed, regulator-aware checklist (RBI vs State govt separated) with every URL filed.
 - **Result:** Handles unseen transactions (home loan, KCC renewal, gold loan), not just curated FAQs. Pre-warmed cache as floor, not ceiling.
 
-🔴 **[Live Demo](https://kaagaz.gabrieljames.me/)** · 📂 **[Code](https://github.com/gabsgj/Kaagaz)**
+🔴 **[Live Demo](https://kaagaz.gabrieljames.dev/)** · 📂 **[Code](https://github.com/gabsgj/Kaagaz)**
 
 </td>
 </tr>
@@ -188,12 +188,12 @@ bim: [IfcOpenShell, PyVista, Pydantic v2]
 **[Market-Volatility-Spike-Detector](https://github.com/gabsgj/Market-Volatility-Spike-Detector)** — systemic-risk anomaly detection
 `Python · NumPy · SciPy · Mahalanobis`
 Rolling 60-day 4-D Gaussian (log-return, σ₁₄, |return|, volume-change) + Mahalanobis scoring. Tested on COVID crash / SVB regimes.
-🔴 [Demo](https://marketvolatilityanomaly.gabrieljames.me/) · [Code](https://github.com/gabsgj/Market-Volatility-Spike-Detector)
+🔴 [Demo](https://marketvolatilityanomaly.gabrieljames.dev/) · [Code](https://github.com/gabsgj/Market-Volatility-Spike-Detector)
 
 **[Baum-Welch-Algorithm](https://github.com/gabsgj/Baum-Welch-Algorithm)** — HMM EM from scratch
 `Python · JS · D3.js · log-space`
 Forward-backward + Baum-Welch re-estimation with underflow-safe log trellis, convergence dashboard.
-🔴 [Demo](https://bwa.gabrieljames.me) · [Code](https://github.com/gabsgj/Baum-Welch-Algorithm)
+🔴 [Demo](https://bwa.gabrieljames.dev) · [Code](https://github.com/gabsgj/Baum-Welch-Algorithm)
 
 **[SynonymNN](https://github.com/gabsgj/SynonymNN)** — embeddings from first principles
 `NumPy · PyTorch · BPTT · Adam · MPS/CUDA`
@@ -209,7 +209,7 @@ Interactive D3 (particle flow, timeline replay, de-congestion) + Graphviz static
 **[K-Means-Image-Compressor](https://github.com/gabsgj/K-Means-Image-Compressor)** — color quantization API
 `Flask · scikit-learn · Docker`
 K-Means++ on 100k-pixel sample, up to ~6× compression, split-screen artifact inspector + REST endpoint.
-🔴 [Demo](http://imagecompressor.gabrieljames.me/)
+🔴 [Demo](http://imagecompressor.gabrieljames.dev/)
 
 **[Circuit-Analyzer](https://github.com/gabsgj/Circuit-Analyzer)** — schematic AI ⭐
 `Flask · Gemini Vision · Schemdraw`
@@ -270,7 +270,7 @@ Hackathon systems leadership — Top 6 HackOdisha 5.0, Top 15 HackHazards '25.
 
 **Coursework (KTU, S3–S5):** `Systems:` OS · Databases · Distributed Computing · HPC · OOP · DSA — `Math/ML:` Statistics & Probability · Machine Learning · Pattern Recognition
 
-**Deep dives live inside the repos:** [Synapse docs](https://github.com/gabsgj/Synapse-Memory/tree/main/docs) — binary-log storage, multi-signal ranking, MCP spec · [SSP](https://github.com/gabsgj/Safe-Semantic-Planner) — D\* Lite + k-d tree + LTL design notes · [Kaagaz](https://github.com/gabsgj/Kaagaz) — RBI-vs-State regulator separation · More systems writing at [gabrieljames.me](https://gabrieljames.me)
+**Deep dives live inside the repos:** [Synapse docs](https://github.com/gabsgj/Synapse-Memory/tree/main/docs) — binary-log storage, multi-signal ranking, MCP spec · [SSP](https://github.com/gabsgj/Safe-Semantic-Planner) — D\* Lite + k-d tree + LTL design notes · [Kaagaz](https://github.com/gabsgj/Kaagaz) — RBI-vs-State regulator separation · More systems writing at [gabrieljames.dev](https://gabrieljames.dev)
 
 <details>
 <summary><b>📚 Certifications — click to expand (credential → where applied)</b></summary>
@@ -334,7 +334,7 @@ instead of paused official vercel/heroku endpoints. Self-host if critical.
 `AI Systems` · `Financial AI` · `Real-Time Infra` · `Computer Vision` · `Verified Software`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieljamesamara)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gabrieljames.me-1a1b27?style=flat&logo=googlechrome&logoColor=7aa2f7)](https://gabrieljames.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gabrieljames.dev-1a1b27?style=flat&logo=googlechrome&logoColor=7aa2f7)](https://gabrieljames.dev)
 [![Email](https://img.shields.io/badge/Email-gabriel22dec@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabriel22dec@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=gabsgj&style=flat&color=7aa2f7" alt="Profile views" />
