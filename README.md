@@ -294,7 +294,7 @@ Full list on [LinkedIn](https://www.linkedin.com/in/gabrieljamesamara) — GitHu
 <table>
 <tr>
 <td>
-<img src="https://github-stats-extended.vercel.app/api?username=gabsgj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img src="https://github-stats-extended.vercel.app/api?username=gabsgj&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&count_private=true&include_all_commits=true&cache_seconds=86400" />
 </td>
 <td>
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gabsgj&theme=tokyonight&hide_border=true&border_radius=12&layout=compact&langs_count=8&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27&hide=Jupyter%20Notebook&cache_seconds=518400" />
